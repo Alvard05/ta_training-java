@@ -7,7 +7,7 @@ public class HelloUser {
      for (argslength = 1; argslength >= 1; argslength++ ); {
 
      }
-     System.out.println(" Hello " + args[1] );
+     System.out.println(" Hello " + args[0] );
 
        }
 }
