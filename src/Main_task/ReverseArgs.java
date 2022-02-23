@@ -6,7 +6,7 @@ public class ReverseArgs {
         char[] reverseArray = str.toCharArray();
         System.out.println(" ");
         for (int i = reverseArray.length - 1; i >= 0; i--) {
-            System.out.println(reverseArray[i]);
+            System.out.print(reverseArray[i]);
         }
     }
 }
