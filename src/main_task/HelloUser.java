@@ -1,4 +1,4 @@
-package Main_task;
+package main_task;
 public class HelloUser {
     public static void main(String[] args) {
 
