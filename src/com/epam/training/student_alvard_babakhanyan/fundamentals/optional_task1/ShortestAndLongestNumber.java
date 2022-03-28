@@ -1,4 +1,4 @@
-package optional_task1;
+package com.epam.training.student_alvard_babakhanyan.fundamentals.optional_task1;
 
 public class ShortestAndLongestNumber{
     public static void main(String[] args) {
