@@ -1,4 +1,4 @@
-package main_task;
+package com.epam.training.student_alvard_babakhanyan.fundamentals.main_task;
 public class HelloUser {
     public static void main(String[] args) {
 
