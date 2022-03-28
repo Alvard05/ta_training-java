@@ -1,4 +1,4 @@
-package mainTask;
+package main_task2;
 
 import java.time.LocalDate;
 
