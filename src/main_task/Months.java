@@ -1,4 +1,4 @@
-package Main_task;
+package main_task;
 public class Months {
     public static void main(String[] args) {
 
