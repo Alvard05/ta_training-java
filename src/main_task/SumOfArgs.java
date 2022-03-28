@@ -1,4 +1,4 @@
-package Main_task;
+package main_task;
 
 public class SumOfArgs {
     public static void main(String[] args) {
