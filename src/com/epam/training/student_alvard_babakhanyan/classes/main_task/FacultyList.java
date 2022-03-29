@@ -1,4 +1,4 @@
-package com.epam.training.student_alvard_babakhanyan.classes.main_task2;
+package com.epam.training.student_alvard_babakhanyan.classes.main_task;
 
 import java.time.LocalDate;
 import java.time.Period;
